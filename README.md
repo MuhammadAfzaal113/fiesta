@@ -1,8 +1,7 @@
-# Instagram
-#### The app is about uploading q
-#### *Cynthia Bella Obonyo*
+# Fiesta
+#### *Muhammad Afzaal*
 ## Project Description
-    This is an Instagram Replica-it allows the user to Log  in to an instagram account,make posts,delete posts,make comments and like posts.
+    This is an Fiesta Replica-it allows the user to Log  in to an Fiesta account,make posts,delete posts,make comments and like posts.
 
 ## Setup/Installation Requirements
     - Download a file in the code section to the desired folder
@@ -14,13 +13,10 @@
 
 ## BDD
     A user should;
-    - Log in to Instagram account.
+    - Log in to Fiesta account.
     - Post a photo or anything that you'd want to post.
     - Delete a post
     - See the number of likes made to a post.
-
-## Live link
-Deployed project can be accessed here(https://bellainstgram.herokuapp.com/)
 
 ## Known Bugs
     The application works perfectly well, no bugs.
@@ -34,9 +30,8 @@ Deployed project can be accessed here(https://bellainstgram.herokuapp.com/)
     -Django
 
 ## Support and contact details
-    - email :: cynthiabella.obonyo@gmail.com
-    - phone :: +254792625077
+    - email :: muhammadafzaal0113@gmail.com
+    - phone :: +923249643238
 
-### License
-*Licenced under the [MT-licence]()*
-Copyright (c) 2021 **Obonyo  Cynthia
+### Copyright
+Copyright (c) 2024 **Muhammad Afzaal
