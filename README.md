@@ -1,7 +1,7 @@
 # Fiesta
 #### *Muhammad Afzaal*
 ## Project Description
-    This is an Fiesta Replica-it allows the user to Log  in to an Fiesta account,make posts,delete posts,make comments and like posts.
+    This is an Fiesta -it allows the user to Log in to an Fiesta account, make posts, delete posts, make comments and like posts.
 
 ## Setup/Installation Requirements
     - Download a file in the code section to the desired folder
